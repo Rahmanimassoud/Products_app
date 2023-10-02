@@ -1,0 +1,13 @@
+
+#nav {
+    background-color:cadetblue;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 1rem;
+    color: antiquewhite;
+}
+.btn-primary {
+    background-color: #575b60;
+    color: white;
+}

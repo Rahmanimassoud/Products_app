@@ -1,0 +1,22 @@
+
+#app {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+  background-color: bisque;
+  align-items: center;
+  text-align: center;
+}
+
+input {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
